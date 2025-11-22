@@ -132,7 +132,7 @@ input {
 }
 
 .overlay { 
-    background: linear-gradient(to right, #ff416c, #ff416c);
+    background: linear-gradient(to right, #0022df, #ff416c);
     color: #fff;
     position: relative;
     left: -100%;
